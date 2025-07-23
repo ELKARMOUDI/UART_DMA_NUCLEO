@@ -3,7 +3,7 @@
 ![STM32F411](https://img.shields.io/badge/STM32F411-Nucleo-blue) 
 ![UART](https://img.shields.io/badge/USART1-DMA_Mode-green)
 
-![1AF5445C-9632-47A7-80C5-8D6F1A053D33](https://github.com/user-attachments/assets/95dd7076-3239-4f3b-b07d-2a8f3b468817)
+<img src="https://github.com/user-attachments/assets/95dd7076-3239-4f3b-b07d-2a8f3b468817" width="650" alt="1AF5445C-9632-47A7-80C5-8D6F1A053D33">
 
 
 High-performance UART communication using DMA on STM32F411 Nucleo.
