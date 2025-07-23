@@ -3,6 +3,8 @@
 ![STM32F411](https://img.shields.io/badge/STM32F411-Nucleo-blue) 
 ![UART](https://img.shields.io/badge/USART1-DMA_Mode-green)
 
+![1AF5445C-9632-47A7-80C5-8D6F1A053D33](https://github.com/user-attachments/assets/95dd7076-3239-4f3b-b07d-2a8f3b468817)
+
 
 High-performance UART communication using DMA on STM32F411 Nucleo.
 
@@ -21,7 +23,6 @@ High-performance UART communication using DMA on STM32F411 Nucleo.
 | USART1_RX | PA10 (D2) | ← External TX |
 | GND       | GND       | ↔ External GND |
 
-*Note: Requires external USB-TTL converter or second UART device*
 
 ## Technical Details
 ### UART/DMA Configuration 
